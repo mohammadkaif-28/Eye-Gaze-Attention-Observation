@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+models/*.task
+build/
+dist/
+*.spec
+sessions/
+runs/
+.pytest_cache/
+*.pt
+*.pth
+*.mp4
+*.avi
